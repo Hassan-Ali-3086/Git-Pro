@@ -6,6 +6,7 @@ int main()
     cout << "Git ++\n";
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     cout<<"Welcome To Git Land \n";
     char name[20];
     cout<<"Enter Your Name: ";
@@ -17,6 +18,10 @@ int main()
     cout<<"i : "<<i*5;
     bool g=false;
     cout<<"g: "<<g<<endl;
+=======
+    cout<<"Hi. there\n";
+    
+>>>>>>> 5e78c71 (l1-feature)
 =======
     cout<<"Hi. there\n";
     
