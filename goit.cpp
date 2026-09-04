@@ -20,6 +20,7 @@ int main()
     cout<<"g: "<<g<<endl;
 =======
     cout<<"Hi. there\n";
+    cout<<"By. there\n";
     
 >>>>>>> 5e78c71 (l1-feature)
 =======
