@@ -14,4 +14,6 @@ int main()
 
     int i=0;
     cout<<"i : "<<i*5;
+    bool g=false;
+    cout<<"g: "<<g<<endl;
 }
