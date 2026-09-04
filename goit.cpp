@@ -12,4 +12,6 @@ int main()
     cout<<"Your name: ";
     cout<<name;
 
+    int i=0;
+    cout<<"i : "<<i*5;
 }
